@@ -1,0 +1,31 @@
+D:\2023term1\Flavour Frenzy\bin\Debug\net7.0\appsettings.Development.json
+D:\2023term1\Flavour Frenzy\bin\Debug\net7.0\appsettings.json
+D:\2023term1\Flavour Frenzy\bin\Debug\net7.0\Flavour Frenzy.staticwebassets.runtime.json
+D:\2023term1\Flavour Frenzy\bin\Debug\net7.0\Flavour Frenzy.exe
+D:\2023term1\Flavour Frenzy\bin\Debug\net7.0\Flavour Frenzy.deps.json
+D:\2023term1\Flavour Frenzy\bin\Debug\net7.0\Flavour Frenzy.runtimeconfig.json
+D:\2023term1\Flavour Frenzy\bin\Debug\net7.0\Flavour Frenzy.dll
+D:\2023term1\Flavour Frenzy\bin\Debug\net7.0\Flavour Frenzy.pdb
+D:\2023term1\Flavour Frenzy\obj\Debug\net7.0\Flavour Frenzy.csproj.AssemblyReference.cache
+D:\2023term1\Flavour Frenzy\obj\Debug\net7.0\Flavour Frenzy.GeneratedMSBuildEditorConfig.editorconfig
+D:\2023term1\Flavour Frenzy\obj\Debug\net7.0\Flavour Frenzy.AssemblyInfoInputs.cache
+D:\2023term1\Flavour Frenzy\obj\Debug\net7.0\Flavour Frenzy.AssemblyInfo.cs
+D:\2023term1\Flavour Frenzy\obj\Debug\net7.0\Flavour Frenzy.csproj.CoreCompileInputs.cache
+D:\2023term1\Flavour Frenzy\obj\Debug\net7.0\Flavour Frenzy.MvcApplicationPartsAssemblyInfo.cache
+D:\2023term1\Flavour Frenzy\obj\Debug\net7.0\Flavour Frenzy.RazorAssemblyInfo.cache
+D:\2023term1\Flavour Frenzy\obj\Debug\net7.0\Flavour Frenzy.RazorAssemblyInfo.cs
+D:\2023term1\Flavour Frenzy\obj\Debug\net7.0\staticwebassets\msbuild.Flavour Frenzy.Microsoft.AspNetCore.StaticWebAssets.props
+D:\2023term1\Flavour Frenzy\obj\Debug\net7.0\staticwebassets\msbuild.build.Flavour Frenzy.props
+D:\2023term1\Flavour Frenzy\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Flavour Frenzy.props
+D:\2023term1\Flavour Frenzy\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Flavour Frenzy.props
+D:\2023term1\Flavour Frenzy\obj\Debug\net7.0\staticwebassets.pack.json
+D:\2023term1\Flavour Frenzy\obj\Debug\net7.0\staticwebassets.build.json
+D:\2023term1\Flavour Frenzy\obj\Debug\net7.0\staticwebassets.development.json
+D:\2023term1\Flavour Frenzy\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\2023term1\Flavour Frenzy\obj\Debug\net7.0\scopedcss\bundle\Flavour Frenzy.styles.css
+D:\2023term1\Flavour Frenzy\obj\Debug\net7.0\scopedcss\projectbundle\Flavour Frenzy.bundle.scp.css
+D:\2023term1\Flavour Frenzy\obj\Debug\net7.0\Flavour Frenzy.dll
+D:\2023term1\Flavour Frenzy\obj\Debug\net7.0\refint\Flavour Frenzy.dll
+D:\2023term1\Flavour Frenzy\obj\Debug\net7.0\Flavour Frenzy.pdb
+D:\2023term1\Flavour Frenzy\obj\Debug\net7.0\Flavour Frenzy.genruntimeconfig.cache
+D:\2023term1\Flavour Frenzy\obj\Debug\net7.0\ref\Flavour Frenzy.dll
