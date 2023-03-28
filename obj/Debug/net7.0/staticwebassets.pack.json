@@ -65,6 +65,10 @@
       "PackagePath": "staticwebassets\\Images\\9.jpg"
     },
     {
+      "Id": "D:\\2023term1\\Flavour Frenzy\\wwwroot\\Images\\Toppa.jpg",
+      "PackagePath": "staticwebassets\\Images\\Toppa.jpg"
+    },
+    {
       "Id": "D:\\2023term1\\Flavour Frenzy\\wwwroot\\Images\\background0.jpg",
       "PackagePath": "staticwebassets\\Images\\background0.jpg"
     },
@@ -97,12 +101,32 @@
       "PackagePath": "staticwebassets\\Images\\broccolibites.jpg"
     },
     {
+      "Id": "D:\\2023term1\\Flavour Frenzy\\wwwroot\\Images\\butter+chk.png",
+      "PackagePath": "staticwebassets\\Images\\butter+chk.png"
+    },
+    {
       "Id": "D:\\2023term1\\Flavour Frenzy\\wwwroot\\Images\\caption.png",
       "PackagePath": "staticwebassets\\Images\\caption.png"
     },
     {
+      "Id": "D:\\2023term1\\Flavour Frenzy\\wwwroot\\Images\\chick+nuggets.jpg",
+      "PackagePath": "staticwebassets\\Images\\chick+nuggets.jpg"
+    },
+    {
+      "Id": "D:\\2023term1\\Flavour Frenzy\\wwwroot\\Images\\chk+schnitzel.jpg",
+      "PackagePath": "staticwebassets\\Images\\chk+schnitzel.jpg"
+    },
+    {
+      "Id": "D:\\2023term1\\Flavour Frenzy\\wwwroot\\Images\\cordon+bleu.png",
+      "PackagePath": "staticwebassets\\Images\\cordon+bleu.png"
+    },
+    {
       "Id": "D:\\2023term1\\Flavour Frenzy\\wwwroot\\Images\\home-bg.jpg",
       "PackagePath": "staticwebassets\\Images\\home-bg.jpg"
+    },
+    {
+      "Id": "D:\\2023term1\\Flavour Frenzy\\wwwroot\\Images\\jalapeno.png",
+      "PackagePath": "staticwebassets\\Images\\jalapeno.png"
     },
     {
       "Id": "D:\\2023term1\\Flavour Frenzy\\wwwroot\\Images\\logo.png",
@@ -115,6 +139,22 @@
     {
       "Id": "D:\\2023term1\\Flavour Frenzy\\wwwroot\\Images\\logo1.png",
       "PackagePath": "staticwebassets\\Images\\logo1.png"
+    },
+    {
+      "Id": "D:\\2023term1\\Flavour Frenzy\\wwwroot\\Images\\mac+cheese+bites.png",
+      "PackagePath": "staticwebassets\\Images\\mac+cheese+bites.png"
+    },
+    {
+      "Id": "D:\\2023term1\\Flavour Frenzy\\wwwroot\\Images\\mac+toppa.jpg",
+      "PackagePath": "staticwebassets\\Images\\mac+toppa.jpg"
+    },
+    {
+      "Id": "D:\\2023term1\\Flavour Frenzy\\wwwroot\\Images\\schnitzel.jpg",
+      "PackagePath": "staticwebassets\\Images\\schnitzel.jpg"
+    },
+    {
+      "Id": "D:\\2023term1\\Flavour Frenzy\\wwwroot\\Images\\veal.jpg",
+      "PackagePath": "staticwebassets\\Images\\veal.jpg"
     },
     {
       "Id": "D:\\2023term1\\Flavour Frenzy\\wwwroot\\css\\site.css",
