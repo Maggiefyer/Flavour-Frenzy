@@ -65,10 +65,6 @@
       "PackagePath": "staticwebassets\\Images\\9.jpg"
     },
     {
-      "Id": "D:\\2023term1\\Flavour Frenzy\\wwwroot\\Images\\Toppa.jpg",
-      "PackagePath": "staticwebassets\\Images\\Toppa.jpg"
-    },
-    {
       "Id": "D:\\2023term1\\Flavour Frenzy\\wwwroot\\Images\\background0.jpg",
       "PackagePath": "staticwebassets\\Images\\background0.jpg"
     },
@@ -101,6 +97,10 @@
       "PackagePath": "staticwebassets\\Images\\broccolibites.jpg"
     },
     {
+      "Id": "D:\\2023term1\\Flavour Frenzy\\wwwroot\\Images\\butter+chk.jpg",
+      "PackagePath": "staticwebassets\\Images\\butter+chk.jpg"
+    },
+    {
       "Id": "D:\\2023term1\\Flavour Frenzy\\wwwroot\\Images\\butter+chk.png",
       "PackagePath": "staticwebassets\\Images\\butter+chk.png"
     },
@@ -117,6 +117,10 @@
       "PackagePath": "staticwebassets\\Images\\chk+schnitzel.jpg"
     },
     {
+      "Id": "D:\\2023term1\\Flavour Frenzy\\wwwroot\\Images\\cordon+bleu.jpg",
+      "PackagePath": "staticwebassets\\Images\\cordon+bleu.jpg"
+    },
+    {
       "Id": "D:\\2023term1\\Flavour Frenzy\\wwwroot\\Images\\cordon+bleu.png",
       "PackagePath": "staticwebassets\\Images\\cordon+bleu.png"
     },
@@ -125,8 +129,16 @@
       "PackagePath": "staticwebassets\\Images\\home-bg.jpg"
     },
     {
+      "Id": "D:\\2023term1\\Flavour Frenzy\\wwwroot\\Images\\jalapeno.jpg",
+      "PackagePath": "staticwebassets\\Images\\jalapeno.jpg"
+    },
+    {
       "Id": "D:\\2023term1\\Flavour Frenzy\\wwwroot\\Images\\jalapeno.png",
       "PackagePath": "staticwebassets\\Images\\jalapeno.png"
+    },
+    {
+      "Id": "D:\\2023term1\\Flavour Frenzy\\wwwroot\\Images\\jalapeno_proc.jpg",
+      "PackagePath": "staticwebassets\\Images\\jalapeno_proc.jpg"
     },
     {
       "Id": "D:\\2023term1\\Flavour Frenzy\\wwwroot\\Images\\logo.png",
@@ -141,20 +153,40 @@
       "PackagePath": "staticwebassets\\Images\\logo1.png"
     },
     {
+      "Id": "D:\\2023term1\\Flavour Frenzy\\wwwroot\\Images\\mac+cheese+bites.jpg",
+      "PackagePath": "staticwebassets\\Images\\mac+cheese+bites.jpg"
+    },
+    {
       "Id": "D:\\2023term1\\Flavour Frenzy\\wwwroot\\Images\\mac+cheese+bites.png",
       "PackagePath": "staticwebassets\\Images\\mac+cheese+bites.png"
+    },
+    {
+      "Id": "D:\\2023term1\\Flavour Frenzy\\wwwroot\\Images\\mac+cheese+bites_proc.jpg",
+      "PackagePath": "staticwebassets\\Images\\mac+cheese+bites_proc.jpg"
     },
     {
       "Id": "D:\\2023term1\\Flavour Frenzy\\wwwroot\\Images\\mac+toppa.jpg",
       "PackagePath": "staticwebassets\\Images\\mac+toppa.jpg"
     },
     {
+      "Id": "D:\\2023term1\\Flavour Frenzy\\wwwroot\\Images\\mac+toppa_proc.jpg",
+      "PackagePath": "staticwebassets\\Images\\mac+toppa_proc.jpg"
+    },
+    {
       "Id": "D:\\2023term1\\Flavour Frenzy\\wwwroot\\Images\\schnitzel.jpg",
       "PackagePath": "staticwebassets\\Images\\schnitzel.jpg"
     },
     {
+      "Id": "D:\\2023term1\\Flavour Frenzy\\wwwroot\\Images\\schnitzel_proc.jpg",
+      "PackagePath": "staticwebassets\\Images\\schnitzel_proc.jpg"
+    },
+    {
       "Id": "D:\\2023term1\\Flavour Frenzy\\wwwroot\\Images\\veal.jpg",
       "PackagePath": "staticwebassets\\Images\\veal.jpg"
+    },
+    {
+      "Id": "D:\\2023term1\\Flavour Frenzy\\wwwroot\\Images\\veal_proc.jpg",
+      "PackagePath": "staticwebassets\\Images\\veal_proc.jpg"
     },
     {
       "Id": "D:\\2023term1\\Flavour Frenzy\\wwwroot\\css\\site.css",

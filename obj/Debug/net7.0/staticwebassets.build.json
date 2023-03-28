@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "og8Sh/qGHFHAmxHpqsB0IwKG01OuC3LudjG+MHwRPpI=",
+  "Hash": "tip2JlX5C73JSl4qyx9WG/yIZ/sTdcEaCseWxOyVqBg=",
   "Source": "Flavour Frenzy",
   "BasePath": "_content/Flavour Frenzy",
   "Mode": "Default",
@@ -476,6 +476,23 @@
       "OriginalItemSpec": "wwwroot\\Images\\broccolibites.jpg"
     },
     {
+      "Identity": "D:\\2023term1\\Flavour Frenzy\\wwwroot\\Images\\butter+chk.jpg",
+      "SourceId": "Flavour Frenzy",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\2023term1\\Flavour Frenzy\\wwwroot\\",
+      "BasePath": "_content/Flavour Frenzy",
+      "RelativePath": "Images/butter+chk.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\butter+chk.jpg"
+    },
+    {
       "Identity": "D:\\2023term1\\Flavour Frenzy\\wwwroot\\Images\\butter+chk.png",
       "SourceId": "Flavour Frenzy",
       "SourceType": "Discovered",
@@ -544,6 +561,23 @@
       "OriginalItemSpec": "wwwroot\\Images\\chk+schnitzel.jpg"
     },
     {
+      "Identity": "D:\\2023term1\\Flavour Frenzy\\wwwroot\\Images\\cordon+bleu.jpg",
+      "SourceId": "Flavour Frenzy",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\2023term1\\Flavour Frenzy\\wwwroot\\",
+      "BasePath": "_content/Flavour Frenzy",
+      "RelativePath": "Images/cordon+bleu.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\cordon+bleu.jpg"
+    },
+    {
       "Identity": "D:\\2023term1\\Flavour Frenzy\\wwwroot\\Images\\cordon+bleu.png",
       "SourceId": "Flavour Frenzy",
       "SourceType": "Discovered",
@@ -578,6 +612,23 @@
       "OriginalItemSpec": "wwwroot\\Images\\home-bg.jpg"
     },
     {
+      "Identity": "D:\\2023term1\\Flavour Frenzy\\wwwroot\\Images\\jalapeno.jpg",
+      "SourceId": "Flavour Frenzy",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\2023term1\\Flavour Frenzy\\wwwroot\\",
+      "BasePath": "_content/Flavour Frenzy",
+      "RelativePath": "Images/jalapeno.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\jalapeno.jpg"
+    },
+    {
       "Identity": "D:\\2023term1\\Flavour Frenzy\\wwwroot\\Images\\jalapeno.png",
       "SourceId": "Flavour Frenzy",
       "SourceType": "Discovered",
@@ -593,6 +644,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\jalapeno.png"
+    },
+    {
+      "Identity": "D:\\2023term1\\Flavour Frenzy\\wwwroot\\Images\\jalapeno_proc.jpg",
+      "SourceId": "Flavour Frenzy",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\2023term1\\Flavour Frenzy\\wwwroot\\",
+      "BasePath": "_content/Flavour Frenzy",
+      "RelativePath": "Images/jalapeno_proc.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\jalapeno_proc.jpg"
     },
     {
       "Identity": "D:\\2023term1\\Flavour Frenzy\\wwwroot\\Images\\logo.png",
@@ -646,6 +714,23 @@
       "OriginalItemSpec": "wwwroot\\Images\\logo1.png"
     },
     {
+      "Identity": "D:\\2023term1\\Flavour Frenzy\\wwwroot\\Images\\mac+cheese+bites.jpg",
+      "SourceId": "Flavour Frenzy",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\2023term1\\Flavour Frenzy\\wwwroot\\",
+      "BasePath": "_content/Flavour Frenzy",
+      "RelativePath": "Images/mac+cheese+bites.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\mac+cheese+bites.jpg"
+    },
+    {
       "Identity": "D:\\2023term1\\Flavour Frenzy\\wwwroot\\Images\\mac+cheese+bites.png",
       "SourceId": "Flavour Frenzy",
       "SourceType": "Discovered",
@@ -661,6 +746,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\mac+cheese+bites.png"
+    },
+    {
+      "Identity": "D:\\2023term1\\Flavour Frenzy\\wwwroot\\Images\\mac+cheese+bites_proc.jpg",
+      "SourceId": "Flavour Frenzy",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\2023term1\\Flavour Frenzy\\wwwroot\\",
+      "BasePath": "_content/Flavour Frenzy",
+      "RelativePath": "Images/mac+cheese+bites_proc.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\mac+cheese+bites_proc.jpg"
     },
     {
       "Identity": "D:\\2023term1\\Flavour Frenzy\\wwwroot\\Images\\mac+toppa.jpg",
@@ -680,6 +782,23 @@
       "OriginalItemSpec": "wwwroot\\Images\\mac+toppa.jpg"
     },
     {
+      "Identity": "D:\\2023term1\\Flavour Frenzy\\wwwroot\\Images\\mac+toppa_proc.jpg",
+      "SourceId": "Flavour Frenzy",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\2023term1\\Flavour Frenzy\\wwwroot\\",
+      "BasePath": "_content/Flavour Frenzy",
+      "RelativePath": "Images/mac+toppa_proc.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\mac+toppa_proc.jpg"
+    },
+    {
       "Identity": "D:\\2023term1\\Flavour Frenzy\\wwwroot\\Images\\schnitzel.jpg",
       "SourceId": "Flavour Frenzy",
       "SourceType": "Discovered",
@@ -697,12 +816,12 @@
       "OriginalItemSpec": "wwwroot\\Images\\schnitzel.jpg"
     },
     {
-      "Identity": "D:\\2023term1\\Flavour Frenzy\\wwwroot\\Images\\Toppa.jpg",
+      "Identity": "D:\\2023term1\\Flavour Frenzy\\wwwroot\\Images\\schnitzel_proc.jpg",
       "SourceId": "Flavour Frenzy",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\2023term1\\Flavour Frenzy\\wwwroot\\",
       "BasePath": "_content/Flavour Frenzy",
-      "RelativePath": "Images/Toppa.jpg",
+      "RelativePath": "Images/schnitzel_proc.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -711,7 +830,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\Toppa.jpg"
+      "OriginalItemSpec": "wwwroot\\Images\\schnitzel_proc.jpg"
     },
     {
       "Identity": "D:\\2023term1\\Flavour Frenzy\\wwwroot\\Images\\veal.jpg",
@@ -729,6 +848,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Images\\veal.jpg"
+    },
+    {
+      "Identity": "D:\\2023term1\\Flavour Frenzy\\wwwroot\\Images\\veal_proc.jpg",
+      "SourceId": "Flavour Frenzy",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\2023term1\\Flavour Frenzy\\wwwroot\\",
+      "BasePath": "_content/Flavour Frenzy",
+      "RelativePath": "Images/veal_proc.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\veal_proc.jpg"
     },
     {
       "Identity": "D:\\2023term1\\Flavour Frenzy\\wwwroot\\js\\site.js",
